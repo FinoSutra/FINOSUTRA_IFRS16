@@ -1,0 +1,6 @@
+{
+  "name": "Finosutra IFRS 16",
+  "description": "Enterprise-grade IFRS 16 lease accounting SaaS platform for financial reporting, amortisation schedules, journal entries, and disclosures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
